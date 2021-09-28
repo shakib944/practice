@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.upper-svg{
+    background-color: #0d6efd;
+    border:none;
+   
+}
+
+.lower-svg svg{
+    background-color: #0d6efd;
+    border:none;
+}
+.upper-svg2{
+    border:none;
+  
+}
+.lower-svg2{
+    border:none;
+ 
+}
